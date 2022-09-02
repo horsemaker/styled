@@ -1,1 +1,3 @@
-export * from "./Button";
+import StyledButton from "./Button.styles";
+
+export default StyledButton;
